@@ -17,7 +17,10 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/+KY41zbmMpZpkNjQy)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/__golden_andy__/)
 
+### Statistics
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosschep&show_icons=true&theme=radical)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crosschep)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
