@@ -11,6 +11,7 @@
 ![Golang](https://img.shields.io/badge/-Go(studying)-black?style=for-the-badge&logo=go)
 
 
+### Follow me
 
-
-Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/+KY41zbmMpZpkNjQy)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/__golden_andy__/)
