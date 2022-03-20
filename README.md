@@ -9,7 +9,7 @@
 ![FastApi](https://img.shields.io/badge/-FastApi-black?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=for-the-badge&logo=sqlite)
-![Golang](https://img.shields.io/badge/-Go(studying)-black?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/-Java(studying)-black?style=for-the-badge&logo=java)
 
 
 ### Follow me
