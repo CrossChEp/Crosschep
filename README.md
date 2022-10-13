@@ -10,6 +10,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=for-the-badge&logo=sqlite)
 ![Java](https://img.shields.io/badge/-Java(studying)-black?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
 
 
 ### Follow me
