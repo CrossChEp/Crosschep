@@ -11,7 +11,7 @@
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
-![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql)
+![Postgres](https://img.shields.io/badge/-Postgres-black?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=for-the-badge&logo=mongodb)
 
 
