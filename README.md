@@ -1,28 +1,25 @@
 [![Header](https://github.com/CrossChEp/crosschep/blob/main/assets/pfpf.gif)](https://github.com/CrossChEp)
 
 
-## Beginner backend developer
 
-### Languages and tools
-
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![FastApi](https://img.shields.io/badge/-FastApi-black?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
-![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
-![Postgres](https://img.shields.io/badge/-Postgres-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=for-the-badge&logo=mongodb)
+# Begginer backend dev
 
 
-### Follow me
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CrossChEp&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CrossChEp&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrossChEp&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/+KY41zbmMpZpkNjQy)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/__golden_andy__/)
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CrossChEp&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### Statistics
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosschep&show_icons=true&theme=radical)
+### Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crosschep)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+---
+[![](https://visitcount.itsvg.in/api?id=CrossChEp&icon=0&color=0)](https://visitcount.itsvg.in)
