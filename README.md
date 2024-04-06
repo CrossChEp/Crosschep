@@ -2,7 +2,7 @@
 
 
 
-# Begginer backend dev
+# Backend dev
 
 
 # Tech Stack:
